@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @El1teWatermelonGames
-- 👀 I’m interested in game development/modding
+- 👀 I’m interested in app and game development/modding
 - 🌱 I’m currently learning java
 - 📫 How to reach me: EliteWatermelonGames@gmail.com
 
